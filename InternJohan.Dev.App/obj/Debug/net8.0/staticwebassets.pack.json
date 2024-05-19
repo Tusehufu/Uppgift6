@@ -1,0 +1,189 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\.browserslistrc",
+      "PackagePath": "staticwebassets\\clientapp\\.browserslistrc"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\.gitignore",
+      "PackagePath": "staticwebassets\\clientapp\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\README.md",
+      "PackagePath": "staticwebassets\\clientapp\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\babel.config.js",
+      "PackagePath": "staticwebassets\\clientapp\\babel.config.js"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\package-lock.json",
+      "PackagePath": "staticwebassets\\clientapp\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\package.json",
+      "PackagePath": "staticwebassets\\clientapp\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\public\\favicon.ico",
+      "PackagePath": "staticwebassets\\clientapp\\public\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\public\\index.html",
+      "PackagePath": "staticwebassets\\clientapp\\public\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\App.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\App.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\assets\\Sportsällskapet.png",
+      "PackagePath": "staticwebassets\\clientapp\\src\\assets\\Sportsällskapet.png"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\assets\\logo.png",
+      "PackagePath": "staticwebassets\\clientapp\\src\\assets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\assets\\profil.jpg",
+      "PackagePath": "staticwebassets\\clientapp\\src\\assets\\profil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\assets\\twitch-embed.js",
+      "PackagePath": "staticwebassets\\clientapp\\src\\assets\\twitch-embed.js"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\assets\\ugglan.mp4",
+      "PackagePath": "staticwebassets\\clientapp\\src\\assets\\ugglan.mp4"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\ConfirmDeleteModal.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\ConfirmDeleteModal.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\ConfirmDeletePostModal.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\ConfirmDeletePostModal.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\ConfirmDeleteReplyModal.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\ConfirmDeleteReplyModal.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\CreatePostModal.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\CreatePostModal.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\CreateReplyModal.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\CreateReplyModal.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\EditEventModal.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\EditEventModal.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\Login.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\Login.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\Posts.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\Posts.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\Register.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\Register.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\components\\Replies.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\components\\Replies.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\main.ts",
+      "PackagePath": "staticwebassets\\clientapp\\src\\main.ts"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\router\\index.ts",
+      "PackagePath": "staticwebassets\\clientapp\\src\\router\\index.ts"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\shims-vue.d.ts",
+      "PackagePath": "staticwebassets\\clientapp\\src\\shims-vue.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\HomeView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\HomeView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\about\\AboutView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\about\\AboutView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\booking\\BookingView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\booking\\BookingView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\createsportevent\\CreateSportEventView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\createsportevent\\CreateSportEventView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\forum\\ForumView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\forum\\ForumView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\movie\\CreateMovieView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\movie\\CreateMovieView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\movie\\DeleteMovieView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\movie\\DeleteMovieView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\movie\\MovieList.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\movie\\MovieList.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\movie\\SingleMovieView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\movie\\SingleMovieView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\movie\\UpdateMovieView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\movie\\UpdateMovieView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\src\\views\\sports\\SportsView.vue",
+      "PackagePath": "staticwebassets\\clientapp\\src\\views\\sports\\SportsView.vue"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\tsconfig.json",
+      "PackagePath": "staticwebassets\\clientapp\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\clientapp\\vue.config.js",
+      "PackagePath": "staticwebassets\\clientapp\\vue.config.js"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\johan\\OneDrive\\Skrivbord\\Sportsällskapet\\KEYnet\\InternJohan.Dev.App\\wwwroot\\package.json",
+      "PackagePath": "staticwebassets\\package.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InternJohan.Dev.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InternJohan.Dev.App.props",
+      "PackagePath": "build\\InternJohan.Dev.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InternJohan.Dev.App.props",
+      "PackagePath": "buildMultiTargeting\\InternJohan.Dev.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InternJohan.Dev.App.props",
+      "PackagePath": "buildTransitive\\InternJohan.Dev.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

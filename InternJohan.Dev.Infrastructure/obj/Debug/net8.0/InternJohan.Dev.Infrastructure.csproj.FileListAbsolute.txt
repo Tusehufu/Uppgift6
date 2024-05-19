@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\bin\Debug\net8.0\InternJohan.Dev.Infrastructure.deps.json
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\bin\Debug\net8.0\InternJohan.Dev.Infrastructure.runtimeconfig.json
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\bin\Debug\net8.0\InternJohan.Dev.Infrastructure.dll
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\bin\Debug\net8.0\InternJohan.Dev.Infrastructure.pdb
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.sourcelink.json
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.dll
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\refint\InternJohan.Dev.Infrastructure.dll
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.pdb
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\InternJohan.Dev.Infrastructure.genruntimeconfig.cache
+C:\Users\johan\OneDrive\Skrivbord\Sportsällskapet\KEYnet\InternJohan.Dev.Infrastructure\obj\Debug\net8.0\ref\InternJohan.Dev.Infrastructure.dll

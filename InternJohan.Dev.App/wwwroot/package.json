@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@progress/kendo-inputs-vue-wrapper": "^2024.1.130"
+  }
+}
